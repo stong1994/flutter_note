@@ -1,0 +1,1 @@
+此项目为阅读[《Flutter技术入门与实践》](https://weread.qq.com/web/reader/08032390719ecf6908074c8kecc32f3013eccbc87e4b62e)笔记。其中`flutter_app`为书中举例的代码。
